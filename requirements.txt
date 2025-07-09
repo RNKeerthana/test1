@@ -1,0 +1,3 @@
+there are two types of data types in any coding language:
+primitive
+non-primitive
